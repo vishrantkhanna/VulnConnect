@@ -21,7 +21,7 @@ sudo chmod +x vulnconnect.sh
 
 
 # Screenshots
-![Screenshot of VulnConnect Tool](https://github.com/vishrantkhanna/VulnConnect/blob/master/resources/vulnconnect.png)
+![Screenshot of VulnConnect Tool](https://github.com/vishrantkhanna/VulnConnect/blob/master/resources/vuln-connect.png)
 
 # Credits
 [Vishrant Khanna](https://github.com/vishrantkhanna) <br>
