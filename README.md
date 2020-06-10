@@ -16,7 +16,7 @@ sudo chmod +x vulnconnect.sh
 
 # Usage
 ```
-./vulnconnect.sh <ip>
+./vulnconnect.sh
 ```
 
 
